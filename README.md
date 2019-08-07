@@ -13,7 +13,8 @@
 ## 4. Kỹ năng giao tiếp xã hội: Developer chỉ cần giao tiếp với máy tính là đủ, không, bạn cần giao tiếp với con người nhiều hơn bạn nghĩ
 - Làm ơn để tôi yên, tôi chỉ muốn cắm đầu viết code!
 - Học cách làm việc với mọi người, không chỉ máy tính
-- Mọi người đều muốn cảm giác mình là người quan trọng Không bao giờ chỉ trích
+- Mọi người đều muốn cảm giác mình là người quan trọng 
+- Không bao giờ chỉ trích
 - Hãy suy nghĩ về những gì người khác muốn Tránh tranh cãi vô ích
 
 ## 5. Cách để phỏng vấn bất bại
@@ -24,9 +25,9 @@
 - Bạn có thể làm gì ngay bây giờ?
 
 ## 6. Định hướng công việc của bạn
-- Cách 1: Nhân viên
-- Cách 2: Nhà tư vấn độc lập
-- Cách 3: Doanh nhân
+- Định hướng 1: Nhân viên
+- Định hướng 2: Nhà tư vấn độc lập
+- Định hướng 3: Doanh nhân
 - Bạn nên chọn cái nào?
 
 ## 7. Bạn thuộc nhóm nhà phát triển phần mềm nào?
