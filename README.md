@@ -13,9 +13,10 @@
 ## 4. Kỹ năng giao tiếp xã hội: Developer chỉ cần giao tiếp với máy tính là đủ, không, bạn cần giao tiếp với con người nhiều hơn bạn nghĩ
 - Làm ơn để tôi yên, tôi chỉ muốn cắm đầu viết code!
 - Học cách làm việc với mọi người, không chỉ máy tính
-- Mọi người đều muốn cảm giác mình là người quan trọng 
+- Ai cũng muốn mình là người quan trọng 
 - Không bao giờ chỉ trích
-- Hãy suy nghĩ về những gì người khác muốn Tránh tranh cãi vô ích
+- Hãy suy nghĩ về những gì người khác muốn
+- Tránh tranh cãi vô ích
 
 ## 5. Cách để phỏng vấn bất bại
 - Cách nhanh nhất để 'pass' một buổi phỏng vấn
@@ -46,7 +47,7 @@
 
 ## 9. Làm sao để tăng nấc thang danh vọng trong công ty hiện tại
 - Nhận lấy những trách nhiệm không ai chịu nhận
-- Trở nên nổi bật
+- Trở nên nổi bật, đừng trở nên vô hình
 - Tự học, tự rèn luyện
 - Hãy là người giải quyết vấn đề (chứ không phải là người gây ra vấn đề)
 - Có nên tham gia vào "chính trị" trong công ty?
@@ -85,7 +86,7 @@
 ## 15. Chiến lược để sống sót bằng cách làm việc từ xa
 - Những thách thức của một ẩn sĩ
 - Thử thách 1: Quản lý thời gian
-- Thử thách 2: Tự tạo động lưc làm việc
+- Thử thách 2: Tự tạo động lực làm việc
 - Thử thách 3: Cô đơn
 
 ## 16. Giả lập những tình huống khó khăn để trưởng thành
@@ -98,7 +99,7 @@
 - Tiến xa hơn tí nữa
 - Nếu bạn không muốn thuê thì sao? 
 
-## 18. Đừng biến công nghệ thành tôn giáo và bạn là một tín đồ
+## 18. Đừng biến công nghệ thành tôn giáo và bạn trở thành một kẻ cuồng tín
 - Tất cả chúng ta đều xem công nghệ như tôn giáo
 - Ổn cả thôi
 - Cuộc đối thoại
