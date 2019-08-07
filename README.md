@@ -1,3 +1,5 @@
+# Soft skills: The software developer's life manual
+
 # SECTION 1: CAREER - NGHỀ NGHIỆP
 
 ## 2. Khởi đầu với một cú sốc "BANG!": Đừng làm những gì những người khác đang làm
