@@ -2,9 +2,9 @@
 
 # SECTION 1: CAREER - NGHỀ NGHIỆP
 
-## 2. Khởi đầu với một cú sốc "BANG!": Đừng làm những gì những người khác đang làm
-- Có tư duy kinh doanh
-- Làm thế nào để suy nghĩ như một doanh nghiệp
+## 2. Khởi đầu với việc trở thành một quả pháo hoa rực rỡ: Đừng làm những gì những người khác đang làm
+- Developer phải có tư duy như một doanh nghiệp
+- Nhưng làm thế nào để suy nghĩ như một doanh nghiệp?
 
 ## 3. Suy nghĩ về tương lai: Mục tiêu của bạn là gì?
 - Cách thiết lập mục tiêu
