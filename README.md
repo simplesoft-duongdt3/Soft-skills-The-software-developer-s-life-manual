@@ -2,7 +2,7 @@
 
 # SECTION 1: CAREER - NGHỀ NGHIỆP
 
-## 2. Khởi đầu với việc trở thành một quả pháo hoa rực rỡ: Đừng làm những gì những người khác đang làm
+## [2. Khởi đầu với việc trở thành một quả pháo hoa rực rỡ: Đừng làm những gì những người khác đang làm] (https://simplesoft-duongdt3.github.io/Soft-skills-The-software-developer-s-life-manual/002.html)
 - Developer phải có tư duy như một doanh nghiệp
 - Nhưng làm thế nào để suy nghĩ như một doanh nghiệp?
 
