@@ -52,7 +52,7 @@
 - Hãy là người giải quyết vấn đề (chứ không phải là người gây ra vấn đề)
 - Có nên tham gia vào "chính trị" trong công ty?
 
-## 10. Trở nên chuyên nghiệp
+## [10. Trở nên chuyên nghiệp](https://simplesoft-duongdt3.github.io/Soft-skills-The-software-developer-s-life-manual/010.html)
 - Chuyên nghiệp là gì?
 - Là một người chuyên nghiệp (hình thành thói quen tốt)
 - Làm những gì đúng đắn
