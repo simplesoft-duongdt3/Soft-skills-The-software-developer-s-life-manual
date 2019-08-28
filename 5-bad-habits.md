@@ -7,6 +7,9 @@
 
 ## Không có developer tệ, chỉ có những developer có thói quen xấu.
 
+[](/images/bad-habits.png)
+
+
 Chắc bạn cũng thấy, có một số developer giỏi hơn những developer khác. Trên thực tế, người ta thống kê được: chỉ có một số ít siêu xuất sắc, một số thì ở mức tốt, hầu hết là có một ít năng lực, một số hầu như không có tí năng lực nào, và một số ít thực sự khủng khiếp.
 
 Điểm khác biệt giữa một developer giỏi và một developer tệ không phải là kỹ năng lập trình (coding skill). Thực ra, điểm khác biệt là một thứ cực kỳ cơ bản, THÓI QUEN XẤU. Và những thói quen xấu thì khó bỏ cả trong cuộc sống và công việc.
