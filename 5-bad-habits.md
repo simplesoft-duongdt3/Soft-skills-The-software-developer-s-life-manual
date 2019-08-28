@@ -140,7 +140,7 @@ Bạn có thái độ tốt thì dễ dàng đánh bại bất cứ anh chàng n
 
 Chỉ biết làm việc là không đủ, bạn phải có thái độ đúng đắn trong công việc thay vì chỉ có kỹ năng lập trình xuất sắc, thái độ đúng đắn quan trọng hơn nhiều.
 
-Có một thái độ tốt, tích cực, cùng với những suy nghĩ tích cực sẽ khiến bạn trở thành một nhân viên làm việc ngày càng hiệu quả hơn. Điều này có thể xác định mức độ bạn hoàn thành các dự án của mình và cũng như cách người khác cảm nhận về bạn. Một thái độ tốt là sẽ rất dễ lây lan.
+Có một thái độ tốt, tích cực, cùng với những suy nghĩ tích cực sẽ khiến bạn trở thành một nhân viên làm việc ngày càng hiệu quả hơn. Điều này có thể xác định mức độ bạn hoàn thành các dự án của mình và cũng như cách người khác cảm nhận về bạn. Một thái độ tốt rất dễ lây lan.
 
 Như Zig Ziglar đã tóm gọn lại trong 1 câu nói:
 
