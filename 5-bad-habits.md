@@ -7,7 +7,7 @@
 
 ## Không có developer tệ, chỉ có những developer có thói quen xấu.
 
-[Logo](https://simplesoft-duongdt3.github.io/Soft-skills-The-software-developer-s-life-manual/images/bad-habits.png)
+![Logo](https://simplesoft-duongdt3.github.io/Soft-skills-The-software-developer-s-life-manual/images/bad-habits.png)
 
 
 Chắc bạn cũng thấy, có một số developer giỏi hơn những developer khác. Trên thực tế, người ta thống kê được: chỉ có một số ít siêu xuất sắc, một số thì ở mức tốt, hầu hết là có một ít năng lực, một số hầu như không có tí năng lực nào, và một số ít thực sự khủng khiếp.
