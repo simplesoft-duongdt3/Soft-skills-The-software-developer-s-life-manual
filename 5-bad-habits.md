@@ -149,5 +149,4 @@ Như Zig Ziglar đã tóm gọn lại trong 1 câu nói:
 > “Your attitude, not your aptitude, will determine your altitude.”
 
  
-
-Ref: https://towardsdatascience.com/5-bad-habits-of-absolTHER-ineffective-programmers-e74b74add9ca
+[Bài viết gốc](https://towardsdatascience.com/5-bad-habits-of-absolutely-ineffective-programmers-e74b74add9ca)
