@@ -74,7 +74,7 @@ Quản lý dự án (Project manager) nghĩ rằng developer cần viết tài l
 
 Nhưng, những developer giỏi luôn biến việc viết tài liệu là một thói quen hằng ngày.
 
-Họ nhận ra được rằng, tất cả mọi phần mềm để thay đổi yêu cầu phần mềm chóng mặt. Developer có thể thay đổi công việc, chuyển từ bộ phận này sang bộ phận khác hoặc nghỉ hưu. Trong trường hợp xấu nhất, bệnh tật, thương tích hoặc giã từ vũ khí có thể khiến các thành viên trong team gặp vô vàn khó khăn khi tham gia hỗ trợ và tiếp nhận công việc của mình.
+Họ nhận ra được rằng, tất cả mọi phần mềm đều thay đổi yêu cầu một cách chóng mặt. Và developer có thể thay đổi công việc, chuyển từ bộ phận này sang bộ phận khác hoặc nghỉ hưu. Trong trường hợp xấu nhất, bệnh tật, thương tích hoặc giã từ vũ khí có thể khiến các thành viên trong team gặp vô vàn khó khăn khi tham gia hỗ trợ và tiếp nhận công việc của mình.
 
 Các developer sẽ dễ dàng quên code của của họ hoạt động như thế nào nếu bỏ quên một vài tháng.
 
