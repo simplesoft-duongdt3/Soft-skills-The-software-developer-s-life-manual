@@ -1,4 +1,4 @@
-![](/how_to_build_self_confidence.jpg)
+![](/images/how_to_build_self_confidence.jpg)
 
 # Làm thế nào để xây dựng sự tự tin để thành công trong cuộc sống
 
