@@ -90,7 +90,9 @@ Và đó là vấn đề lớn nhất của tôi với rất những lý thuyế
 
 Làm thế nào bạn có thể mong đợi để xây dựng sự tự tin nếu như bạn không bao giờ làm bất cứ điều gì? Điều đó là bất khả thi.
 
-Không có gì có thể xây dựng lòng tự trọng và sự tự tin như những thành tựu bạn đạt được. Thomas Carlyle
+> Không có gì có thể xây dựng lòng tự trọng và sự tự tin như những thành tựu bạn đạt được. 
+
+> Thomas Carlyle
 
 
 # Tôi cần cải thiện những năng lực gì?
