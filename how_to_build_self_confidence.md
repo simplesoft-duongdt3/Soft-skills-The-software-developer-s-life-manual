@@ -58,7 +58,7 @@ Bạn cần biết cách nói và có can đảm để phát biểu, nhưng bạ
 
 Vì vậy, bạn sẽ trở nên tự tin hơn nếu bạn ngày càng giỏi những gì bạn đang làm. Đó là một lý thuyết và đã được nghiên cứu bởi rất nhiều nhà khoa học.
 
-Vậy làm sao để thực hiện xây dựng sự tự tin? Quá trình thì đơn giản, những cần nhiều bước và nhiều công sức.
+Vậy làm sao để thực hiện xây dựng sự tự tin? Quá trình thì đơn giản, nhưng cần nhiều bước và tốn nhiều công sức.
 
 **_Nó sẽ diễn ra như sau:_**
 
