@@ -1,3 +1,5 @@
+![](/how_to_build_self_confidence.jpg)
+
 # Làm thế nào để xây dựng sự tự tin để thành công trong cuộc sống
 
 Bạn có bao giờ cảm thấy xấu hổ về bản thân? Hầu như ai cũng từng có những lúc như vậy.
