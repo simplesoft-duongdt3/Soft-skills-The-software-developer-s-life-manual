@@ -108,7 +108,7 @@ Làm thế nào bạn có thể mong đợi để xây dựng sự tự tin nế
 
 3. Phương pháp giải quyết vấn đề: Hệ thống trường học hiện tại của chúng ta bắt nguồn từ cuộc cách mạng công nghiệp. Chúng ta được đào tạo để trở thành mắc xích trong một hệ thống. Chúng ta không được đào tạo để giải quyết vấn đề trong các tình huống phức tạp - thay vào đó, chúng ta chỉ làm những gì chúng ta được yêu cầu. Nhưng thế giới đã thay đổi, với thế giới hiện tại, người có khả năng giải quyết vấn đề tốt hơn sẽ chiến thắng.
 
-Đừng tự lừa dối bản thần bằng suy nghĩ rằng: cuộc sống của mình sẽ tốt hơn miễn là mình muốn.
+Đừng tự lừa dối bản thân bằng suy nghĩ rằng: cuộc sống của mình sẽ tốt hơn miễn là mình muốn.
 
 Khi bạn làm việc và thấy kết quả - như một cơ thể khỏe mạnh hơn, nhiều năng lượng hơn, kiếm được nhiều tiền hơn hoặc bất cứ điều gì bạn đang theo đuổi - bạn sẽ bắt đầu tin vào khả năng của mình.
 
