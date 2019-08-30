@@ -3,7 +3,7 @@
   <img src="https://simplesoft-duongdt3.github.io/Soft-skills-The-software-developer-s-life-manual/images/how_to_build_self_confidence.jpg">
 </p>
 
-# Làm thế nào để xây dựng sự tự tin để thành công trong cuộc sống
+# Làm thế nào để xây dựng sự tự tin giúp thành công trong cuộc sống
 
 Bạn có bao giờ cảm thấy xấu hổ về bản thân? Hầu như ai cũng từng có những lúc như vậy.
 
