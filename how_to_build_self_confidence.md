@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/images/how_to_build_self_confidence.jpg">
+  <img src="https://simplesoft-duongdt3.github.io/Soft-skills-The-software-developer-s-life-manual/images/how_to_build_self_confidence.jpg">
 </p>
 
 # Làm thế nào để xây dựng sự tự tin để thành công trong cuộc sống
