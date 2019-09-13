@@ -33,13 +33,13 @@ Có một số kỹ năng mà bạn cần phải có để trở nên linh hoạ
 Ví dụ nhé:
 
 
-*   Nếu hạnh phúc của bạn là tiền?_** Đa dạng hóa nguồn thu nhập của bạn. Tìm kiếm nhiều dự án khác ngoài công việc chính.
+*   **_Nếu hạnh phúc của bạn là tiền?_** Đa dạng hóa nguồn thu nhập của bạn. Tìm kiếm nhiều dự án khác ngoài công việc chính.
 
 
-*   Hạnh phúc của bạn là bạn bè, đồng nghiệp?_** Hãy có một vài sở thích cá nhân và tài lẻ. Có những lúc trong cuộc đời này, bạn gặp những khó khăn, sự cố, những sở thích sẽ là chiếc phao cứu sinh để bám víu. Ngoài ra, bạn sẽ luôn có thể gây ấn tượng với bạn bè, đồng nghiệp của mình bằng những tài lẻ và kỹ năng mới.
+*   **_Hạnh phúc của bạn là bạn bè, đồng nghiệp?_** Hãy có một vài sở thích cá nhân và tài lẻ. Có những lúc trong cuộc đời này, bạn gặp những khó khăn, sự cố, những sở thích sẽ là chiếc phao cứu sinh để bám víu. Ngoài ra, bạn sẽ luôn có thể gây ấn tượng với bạn bè, đồng nghiệp của mình bằng những tài lẻ và kỹ năng mới.
 
 
-*   Hạnh phúc của bạn là gia đình?_** Quan tâm và giúp đỡ thêm những người khác nữa. Xây dựng cộng đồng. Nếu có bất cứ điều gì xảy ra trong cuộc sống, bạn sẽ luôn được hỗ trợ bởi những người bạn quan tâm, và bạn sẽ có nhiều người khác quan tâm đến.
+*   **_Hạnh phúc của bạn là gia đình?_** Quan tâm và giúp đỡ thêm những người khác nữa. Xây dựng cộng đồng. Nếu có bất cứ điều gì xảy ra trong cuộc sống, bạn sẽ luôn được hỗ trợ bởi những người bạn quan tâm, và bạn sẽ có nhiều người khác quan tâm đến.
 
 Linh hoạt là suy nghĩ thoáng hơn, tích cực hơn và suy nghĩ trước một, hai bước khi bắt đầu làm bất cứ việc gì. Nó không phức tạp như bạn tưởng đâu. Nó đơn giản là bạn cần thêm nhiều cách để dự phòng, và có thêm nhiều nguồn cung cấp hạnh phúc cho chính bạn.
 
